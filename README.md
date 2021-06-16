@@ -44,5 +44,7 @@ The Levenberg-Marquardt least-squares optimization routine is used for optimizat
 After (α, β, ρ, υ) calibrated, one can generate SABR volatility (swaption volatility) for any moneyness.
 Repeat the above process for each term and tenor.
 
-You can find interest rate data at
-https://finpricing.com/lib/IrCurveIntroduction.html
+References:
+
+https://finpricing.com/lib/EqRangeAccrual.html
+
